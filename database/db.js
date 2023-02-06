@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const MONGODB_URI = 'mongodb+srv://gofood:gofood@gofood.rx60b8f.mongodb.net/gofood'
+const MONGODB_URI = MONGODB_URI
 
 const mongoDBConfig = {
     autoIndex: true,
